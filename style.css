@@ -1,0 +1,10 @@
+.hot {
+    position: absolute;
+    top: -34px;
+    right: 9px;
+    border: 1px solid red;
+    border-radius: 10px;
+    background: red;
+    color: white !important;
+    padding: 0 8px 0 8px;
+}
